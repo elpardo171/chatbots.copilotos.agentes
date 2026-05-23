@@ -1,4 +1,4 @@
-# chatbots.copilotos.agentes
+# chatbots
 oque vi e aprendi na aula sobre chatbots, copolitos e agentes
 
 Pergunta:
@@ -93,6 +93,7 @@ PROCV/XLOOKUP
 Tabela dinâmica
 Fórulas
 Dashboards
+
 2. SQL
 
 Esse é o principal.
